@@ -1,0 +1,1 @@
+All of the code in this folder uses the `advent-of-code-data` python package.
